@@ -1,5 +1,5 @@
 """
-ASGI config for wsvpro project.
+ASGI config for dockerintro project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'wsvpro.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dockerintro.settings')
 
 application = get_asgi_application()
