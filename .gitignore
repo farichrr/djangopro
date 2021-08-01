@@ -221,3 +221,16 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/linux,macos,python,django,pycharm
+
+#data postgresql
+.data/
+/data
+/data/
+data/
+
+#media
+.media/
+/media
+/media/
+media/
+/postgresql_intro/data/
